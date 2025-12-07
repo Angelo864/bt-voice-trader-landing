@@ -1,5 +1,0 @@
-.gemini/
-*.lock
-.git/index.lock
-Application Data/
-NTUSER.DAT*
